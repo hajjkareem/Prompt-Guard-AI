@@ -1,0 +1,5 @@
+# Prompt-Guard-AI Requirements
+# Core library only uses stdlib for maximum performance
+# For Semantic Guardrails (future):
+# sentence-transformers
+# numpy
